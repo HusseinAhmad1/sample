@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char **argv)
+int main()
 {
 	printf("Here is sample.c\n");
 	printf("Here is another one");
